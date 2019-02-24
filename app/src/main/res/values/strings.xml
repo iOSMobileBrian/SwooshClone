@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SwooshClone</string>
+    <string name="desired_league">Desired League</string>
+    <string name="mens">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="co_ed">Co-Ed</string>
+    <string name="text">Text</string>
+    <string name="todo">TODO</string>
+    <string name="next">Next</string>
 </resources>
