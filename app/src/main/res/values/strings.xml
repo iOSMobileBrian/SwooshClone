@@ -7,4 +7,11 @@
     <string name="text">Text</string>
     <string name="todo">TODO</string>
     <string name="next">Next</string>
+    <string name="swoosh_logo">swoosh_logo</string>
+    <string name="beginner_baller">Beginner Baller</string>
+    <string name="iam_a">Iam a:</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">Finish</string>
+
 </resources>
