@@ -1,6 +1,5 @@
-package com.swoosh.brian.swooshclone
+package com.swoosh.brian.swooshclone.Controller
 
-import android.nfc.Tag
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log

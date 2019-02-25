@@ -1,8 +1,8 @@
-package com.swoosh.brian.swooshclone
+package com.swoosh.brian.swooshclone.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.swoosh.brian.swooshclone.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
